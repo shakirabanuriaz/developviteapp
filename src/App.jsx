@@ -19,9 +19,6 @@ function App() {
       <h1>Vite + React</h1>
       <h2>This is vite react application</h2>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
